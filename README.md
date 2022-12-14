@@ -1,2 +1,2 @@
 # learn_django
-leard django with bal
+learn django with bal
